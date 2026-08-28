@@ -1,0 +1,14 @@
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: brown;
+}
+
+body {
+    font-size: 24px;
+    color: antiquewhite;
+    text-align: center;
+    padding: 56px;
+}
