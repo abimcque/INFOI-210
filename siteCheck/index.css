@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    background-color: grey;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    align-items: center;
+    justify-content: right;
+    display: flex;
+    padding: 5px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-align: center;
+    padding-top: 75px;
+}
+
+div.parentContainer1 {
+    display: flex;
+    flex-direction: row;
+}
+
+div.parentContainer2 {
+    display: flex;
+    flex-direction: row;
+}
+
+div.box1 {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    background-color: crimson;
+    margin: 200px
+}
+
+div.box2 {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    background-color: crimson;
+    margin: 200px
+}
+
+div.box3 {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    background-color: crimson;
+    margin: 200px
+}
+
+div.box4 {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    background-color: crimson;
+    margin: 200px
+}
+
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    background-color: grey;
+    padding: 20px;
+}
+
+
+
